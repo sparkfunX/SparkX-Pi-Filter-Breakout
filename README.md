@@ -1,41 +1,16 @@
-SparkFun <PRODUCT NAME>
+Pi Filter Breakout
 ========================================
 
-![SparkFun Part Name](URL for picture of part)
+![Pi Filter Breakout](https://cdn.sparkfun.com/assets/parts/1/3/7/2/7/15260-SparkX_Pi-Filter-01.jpg)
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*Pi Filter Breakout (SPX-15260)*](https://www.sparkfun.com/products/15260)
 
-<Basic description of the part.>
+It’s 2pm on a Tuesday and you find yourself at the test house with a design failing an emissions test. You quickly determine that you need to hack a filter onto your design but there is no space to do so. If only you had a simple board you could attach to the product. Introducing the Pi-Filter! This simple board gets the name Pi-Filter from its shape, which resembles the Greek letter Pi. It has two shunt capacitors with an inductor in between. In this C-L-C configuration, a person can quickly implement a low pass filter.
 
 Repository Contents
 -------------------
 
-* **/Documentation** - Data sheets, additional product information
-* **/Enclosure** - Enclosure files 
-* **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Libraries** - Libraries for use with the <PRODUCT NAME>
-* **/Production** - Production panel files (.brd)
-* **/Software** - Related software for the <PRODUCT NAME>
-
-Documentation
---------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
-* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
-
-Product Versions
-----------------
-* [Part SKU](part URL)- Basic part and short description here
-* [Retail part SKU] (retail URL)- Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
-
-Version History
----------------
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) - Description 
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) - Description
 
 License Information
 -------------------
@@ -50,4 +25,3 @@ Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
 
-_<COLLABORATION CREDIT>_
